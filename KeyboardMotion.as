@@ -11,6 +11,7 @@ package
 	public class KeyboardMotion 
 	{
 		// A ver si funciona!!!!!
+		// trololo
 		private var _object:DisplayObject;
 		private var _stage:Stage;
 		

@@ -10,7 +10,7 @@ package
 	
 	/**
 	 * ...
-	 * @author 
+	 * @author  o
 	 */
 	public class Main extends MovieClip 
 	{
